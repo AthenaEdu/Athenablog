@@ -104,11 +104,16 @@ npm run dev
 编译完成后打开浏览器地址栏输入 `localhost:8080` 预览。
 
 ### 提交
-请在 `Athenablog` 文件夹下使用命令
+
+提交此处指的是提交到你的个人账号下。然后发起 `pull request` 请求与组织库同步。
+
+请以记事本形式打开 `deploy.sh` ，修改
 ```bash
-npm run build
+git push -f https://github.com/<username>/Athenablog.git master:gh-pages
 ```
-然后双击执行根目录中的 `deploy.sh` 脚本进行提交。
+中的 username 为你的 Github ID。
+
+双击执行根目录中的 `deploy.sh` 脚本进行提交。（注：脚本运行可能比较慢，它在运行完成后会自动关闭。）
 
 # 成员
 
