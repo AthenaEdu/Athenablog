@@ -1,0 +1,32 @@
+{
+  "name": "vuepress_docs_template",
+  "version": "1.0.0",
+  "description": "vuepress with auto detection of navbars and sidebars",
+  "main": "null",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docs",
+    "vuepress",
+    "autonav",
+    "autobar"
+  ],
+  "author": "tk sun",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.4",
+    "lodash.escaperegexp": "^4.1.2",
+    "lodash.sortby": "^4.7.0",
+    "lodash.startcase": "^4.4.0",
+    "markdown-it": "^10.0.0",
+    "markdown-it-meta": "0.0.1",
+    "transliteration": "^2.1.7",
+    "vuepress": "^1.2.0"
+  }
+}
