@@ -115,9 +115,38 @@ git push -f https://github.com/<username>/Athenablog.git master:gh-pages
 
 双击执行根目录中的 `deploy.sh` 脚本进行提交。（注：脚本运行可能比较慢，它在运行完成后会自动关闭。）
 
+# 组织者
+
+[@Moriadry](https://github.com/Moriadry)
+
+> Athena 学习计划
+> 1. RoundTable
+> 
+>       在ToundTable下，我们通过issue进行技术问题的讨论、技术资料的共享，主要方式是: 每个人把自己看过某本技术书籍印象最深刻、最叹为观止的部分分享出来。如果有也研究过的，可以在下方进行评论，交流。
+>
+>       提issue的最佳实践:
+>       
+>       a. 标题必须是英文，不要是链接形式，可以是你起的 issue 的大致概括；
+> 
+>       b. 内容通常是 link ，可以是一本书名，也可以是一个博客文章的入口，甚至可以是一串代码的碎片，Anything worth mentioning;
+> 
+>       c. link 之后，请附带上个人感悟的部分。比如这段代码精妙在何处，这本书的第几章有何独到之处，这个博客棒在哪里；
+> 
+>       d. issue 内容最好是英文，如果感觉为难，也可以写中文。注意一定不要从他处直接抄点东西(可以部分借鉴)放上去，对你自己和他人都没有意义；
+> 
+>       e. 学会如何完整你的 issue ，https://github.com/AthenaEdu/RoundTable/issues/labels 提交 issue 的时候你可以选择 issue 类型，是 material ？ 还是 help wanted (比如希望找人组队比赛，某项作业或代码有疑问寻找解答)？ 抑或是 enhancement (对自己或他人之前的某个 issue 有更深的理解)？
+> 
+>       f. 如果你对某个issue感兴趣，请写下你的理解，不要刷无意义的回复。一经发现则踢出 org 和 学习计划。因为 github 是所有技术人的共有网站，我们应该爱护、保护它的生态，如果有英语语言国家的朋友看到我们的项目，也能进行一些学习交流。请对技术保持尊重和敬畏!
+>       
+>  2.  Athenablog
+>   
+>       Athenablog 接受 member 的原创文章，但是请保证是自己学习心得和总结，务必不要抄袭。形式可以是 leetcode 刷题感悟，比如某个dp解法到精髓你忍不住发个长篇大论回味一番。若干年后当你回味自己的文章时，还能感受到这样的工程与算法之美。我想，这样的感动才是长足的。
+>       
+>   这两种途径都纯粹出于个人对技术的热情，没有限制要求比如说必须多久写一篇文章之类的要求，Athena 学习计划这样一个小实验，会在3个月内无任何 issue、pr 更新的情况下 close 掉，感谢大家！
+
 # 成员
 
 项目搭建、初版文档：[@Sirice](https://github.com/Siricee)
 
-组织成员：
-- [anybody](github-link)
+<!-- 组织成员： -->
+<!-- - [anybody](github-link) -->
